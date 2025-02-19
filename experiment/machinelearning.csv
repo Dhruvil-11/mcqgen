@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+Which type of machine learning uses labeled data to predict outcomes?,a: Supervised Learning | b: Unsupervised Learning | c: Reinforcement Learning | d: Self-Supervised Learning,a
+What is the goal of unsupervised learning?,a: Predict continuous values | b: Classify data into categories | c: Find patterns in unlabeled data | d: Maximize rewards through trial and error,c
+Which learning type uses both labeled and unlabeled data?,a: Supervised Learning | b: Unsupervised Learning | c: Semi-Supervised Learning | d: Reinforcement Learning,c
+Which of these is a supervised learning algorithm used for predicting continuous numerical values?,a: Logistic Regression | b: Linear Regression | c: Clustering | d: Dimensionality Reduction,b
+What is the purpose of 'Data Cleaning' in a Machine Learning pipeline?,a: To train the model | b: To make predictions | c: To prepare the data for training | d: To evaluate the model's performance,c
